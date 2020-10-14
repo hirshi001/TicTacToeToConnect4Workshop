@@ -44,6 +44,7 @@ public class TicTacToeP1 {
                     System.out.println("Pick a valid col from 1-3");
                     col = getNextNumber()-1;
                 } while (!(col >= 0 && col < 3));
+
             } while(board[row][col]!='.');
 
             System.out.println("You Picked: "+ row+1 + ", "+ col+1);

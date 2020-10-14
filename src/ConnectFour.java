@@ -153,10 +153,6 @@ public class ConnectFour {
         return count>=PIECES_TOGETHER_WIN;
     }
 
-
-
-
-
     static int getNextNumber(){
         while(!scanner.hasNextInt()){
             scanner.nextLine();
