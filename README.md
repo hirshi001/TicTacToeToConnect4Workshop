@@ -10,4 +10,4 @@ This is a template of classes which will be used for a Java Game Design workshop
 6. If there are ConnectFourP2, P3, P4, etc.. classes provided in this repository, they will contain enhancements which can be made to the ConnectFour game
 
 # Each class
-At the top of each class (not the file, but the actual class itself), there will be commented out statements which say which enhancments/changes the class has in comparison to the prevoius version.
+At the top of each class (not the file, but the actual class itself), there will be a block of commented out statements which will say which enhancments/changes the class has in comparison to the prevoius class version.
