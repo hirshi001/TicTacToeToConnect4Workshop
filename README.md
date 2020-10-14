@@ -13,4 +13,4 @@ This is a template of classes which will be used for a Java Game Design workshop
 At the top of each class (not the file, but the actual class itself), there will be a block of commented out statements which will say which enhancments/changes the class has in comparison to the prevoius class version.
 
 # LICENCE
-This is Licenced under the MIT licence. See the LICENCE file for more information
+This is licenced under the MIT Licence. See the LICENCE file in this repository for more information about it.
