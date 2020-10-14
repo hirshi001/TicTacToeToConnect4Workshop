@@ -1,4 +1,4 @@
-# TicTacToeToConnect4Workshop
+# TicTacToe To Connect4 Workshop
 This is a template of classes which will be used for a Java Game Design workshop where the students will be creating a Connect 4 game through the console by the end of the workshop.
 
 # How this template works:
