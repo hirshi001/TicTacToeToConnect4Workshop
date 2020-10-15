@@ -8,7 +8,7 @@ public class TicTacToeP1 {
         2. then create char playerOne, playerTwo.
         3. create main loop, row = getNextNumber()-1, getNextNumber() method header, Scanner scanner, getNextNumber() body
         4. col = getNextNumber()-1, then test it by setting the board[row][col] to playerOne.
-        5. create checks on row and col using do while loops
+        5. create checks on row and col using do while loops (do while loops which surround them)
 
         6. create isPlayerOneTurn variable, update the setting of board[row][col], isPlayerOneTurn = !isPlayerOneTurn.
         7. checkPlayerWon(char player) method
